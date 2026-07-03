@@ -54,10 +54,19 @@ The system combines the speed of Groq’s LLM with LangGraph orchestration and a
 - Powered by Groq’s `llama-3.1-8b-instant` model
 - Reliable prompt engineering for consistent results
 
+- ## 🧠 Sentiment Analysis
+
+![Sentiment Analysis](assets/sentiment-analysis.png.png)
+
 ### 📧 Automated Email Responses
 - **Positive Feedback**: Thank you + request for 5-star review
 - **Negative Feedback**: Sincere apology + support ticket creation + escalation
 - Professional and empathetic tone
+
+  ## 📧 Automated Email Responses
+
+![Automated Response](assets/automated-response.png.png)
+
 
 ### 📊 Analytics Dashboard
 - Sentiment distribution charts (Plotly)
@@ -65,6 +74,14 @@ The system combines the speed of Groq’s LLM with LangGraph orchestration and a
 - Key metrics (Total, Positive %, Negative %)
 - Searchable feedback history
 - Export data to CSV
+
+- ---
+
+## 📊 Analytics Dashboard
+
+![Analytics Dashboard](assets/analytics-dashboard.png.png)
+
+---
 
 ### 🎨 User Interface
 - Modern, responsive Streamlit UI
@@ -84,6 +101,11 @@ The system combines the speed of Groq’s LLM with LangGraph orchestration and a
 5. **Storage & Visualization** → Data saved and displayed on analytics dashboard
 
 The architecture is modular, scalable, and easy to maintain.
+
+## 🖼️ System Architecture
+
+![FeedbackFlow AI Architecture](assets/architecture-flow.png.jpg)
+
 
 ---
 
