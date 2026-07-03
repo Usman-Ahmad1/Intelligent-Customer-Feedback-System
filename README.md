@@ -35,8 +35,6 @@
 
 ---
 
-**Direct Link:** [https://intelligent-customer-feedback-system-ags547t5q6uwfreqzfoef4.streamlit.app/](https://intelligent-customer-feedback-system-ags547t5q6uwfreqzfoef4.streamlit.app/)
-
 ## 🎯 Project Overview
 
 **FeedbackFlow AI** is a production-ready intelligent customer feedback management system. It automatically analyzes customer feedback using AI, determines sentiment, generates personalized email responses, and triggers appropriate business actions (e.g., support ticket creation).
