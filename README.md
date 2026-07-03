@@ -27,6 +27,15 @@
 - [License](#-license)
 
 ---
+## 🚀 Live App
+
+**Try the Intelligent Customer Feedback System live:**
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://intelligent-customer-feedback-system-ags547t5q6uwfreqzfoef4.streamlit.app/)
+
+---
+
+**Direct Link:** [https://intelligent-customer-feedback-system-ags547t5q6uwfreqzfoef4.streamlit.app/](https://intelligent-customer-feedback-system-ags547t5q6uwfreqzfoef4.streamlit.app/)
 
 ## 🎯 Project Overview
 
