@@ -109,4 +109,4 @@ cd FeedbackFlow-AI
 python -m venv venv
 source venv/bin/activate    # Windows: venv\Scripts\activate
 
-pip install -r requirements.txt<img width="616" height="292" alt="Screenshot 2026-07-03 220248" src="https://github.com/user-attachments/assets/245d953d-d313-4ea7-be08-585f9321770f" />
+pip install -r requirements.txt
